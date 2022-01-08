@@ -2,7 +2,7 @@ from urllib.request import urlopen
 import json
 from termcolor import colored
  
-available_letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+
 
 
 #extracting only one word from the given link by changing the number parameter and returning a filtered string
@@ -54,6 +54,7 @@ def result(outcome,word):
 #Main game function	
 def game():
 	word = extract_word()
+	available_letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 	score = 0 
 	lives = 5
 	length = len(word)
