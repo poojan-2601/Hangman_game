@@ -20,3 +20,8 @@ It is a command line based game developed in java in which player has 5 lives to
     
 -   The game ends when the user guesses the word correctly or there are no lives remaining.
 ### Screen Shots
+![Screenshot from 2022-01-08 20-52-35](https://user-images.githubusercontent.com/57809488/148649961-09981b5e-fa00-4392-a4a4-28a24b32b27e.png)
+![Screenshot from 2022-01-08 20-53-14](https://user-images.githubusercontent.com/57809488/148649974-93299dad-d249-451a-901d-a65d77f7871c.png)
+![Screenshot from 2022-01-08 20-53-43](https://user-images.githubusercontent.com/57809488/148649977-e1e8e99f-b011-4987-b03e-d9a411dc9d2c.png)
+![Screenshot from 2022-01-08 20-53-48](https://user-images.githubusercontent.com/57809488/148649980-b402b056-f3e6-41ea-918a-6fca97b36a18.png)
+![Screenshot from 2022-01-08 20-53-53](https://user-images.githubusercontent.com/57809488/148649986-13b9dc59-1bb3-40cb-ab1e-be33e86776e1.png)
